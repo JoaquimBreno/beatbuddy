@@ -22,6 +22,6 @@ def song_finder_shazam(audio_file):
         print(err)
 
 
-if __name__ == "__main__":
-    song, artist = song_finder_shazam("audio.mp3")
-    print(song, artist)
+# if __name__ == "__main__":
+#     song, artist = song_finder_shazam("audio.mp3")
+#     print(song, artist)
