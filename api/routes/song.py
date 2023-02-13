@@ -3,7 +3,6 @@ from fastapi import Depends
 from config import SessionLocal
 from sqlalchemy.orm import Session
 from schema import SongsSchema, Response, RequestSongs
-
 import crud
 
 router = APIRouter(
@@ -21,5 +20,6 @@ def get_db():
 
 @router.get("/")
 async def get_songs(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
+    print("here")
     _song = crud.get_songs(db, skip, limit)
     return Response(status="Ok", code="200", message="Success fetch all data", result=_song)

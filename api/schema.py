@@ -6,7 +6,7 @@ T = TypeVar('T')
 
 ############ Song ############
 class SongsSchema(BaseModel):
-    id_song = int
+    id = int
     title = str
     artist = str
 

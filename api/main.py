@@ -1,9 +1,11 @@
 from fastapi import FastAPI
 import models
 from config import engine
-from tables import song
+from routes import song
+import time
 
 models.Base.metadata.create_all(bind=engine)
 app = FastAPI()
-print("Here")
+
+## ROUTES ##
 app.include_router(song.router)
