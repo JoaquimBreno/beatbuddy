@@ -5,7 +5,7 @@ from pydantic.generics import GenericModel
 T = TypeVar('T')
 
 ############ Song ############
-class SongSchema(BaseModel):
+class SongsSchema(BaseModel):
     id_song = int
     title = str
     artist = str
@@ -13,8 +13,8 @@ class SongSchema(BaseModel):
     class Config:
         orm_mode = True
 
-class RequestSong(BaseModel):
-    parameter: SongSchema = Field(...)
+class RequestSongs(BaseModel):
+    parameter: SongsSchema = Field(...)
     
 class Response(GenericModel, Generic[T]):
     code:str
