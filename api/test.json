@@ -1,0 +1,2557 @@
+{
+  "code": "200",
+  "status": "Ok",
+  "message": "Success fetch all data",
+  "result": [
+    {
+      "mode": "0",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "183893",
+      "key": "9",
+      "track_name": "Love Language",
+      "tempo": "65.038",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "181080",
+      "key": "0",
+      "track_name": "Low",
+      "tempo": "145.044",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Harry Styles",
+      "genre": "pop",
+      "duration": "167303",
+      "key": "6",
+      "track_name": "As It Was",
+      "tempo": "173.93",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "117773",
+      "key": "7",
+      "track_name": "SOS",
+      "tempo": "119.159",
+      "time_signature": "1"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Summer Walker",
+      "genre": "pop",
+      "duration": "188907",
+      "key": "1",
+      "track_name": "Karma",
+      "tempo": "113.847",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "174000",
+      "key": "7",
+      "track_name": "I Hate U",
+      "tempo": "106.703",
+      "time_signature": "5"
+    },
+    {
+      "mode": "0",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "181831",
+      "key": "3",
+      "track_name": "Shirt",
+      "tempo": "119.959",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "70160",
+      "key": "10",
+      "track_name": "Used (feat. Don Toliver)",
+      "tempo": "149.579",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "279204",
+      "key": "1",
+      "track_name": "Good Days",
+      "tempo": "121.002",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "150720",
+      "key": "9",
+      "track_name": "Blind",
+      "tempo": "114.225",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Metro Boomin",
+      "genre": "rap",
+      "duration": "199920",
+      "key": "7",
+      "track_name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "tempo": "88.048",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Metro Boomin",
+      "genre": "rap",
+      "duration": "221520",
+      "key": "1",
+      "track_name": "Creepin' (with The Weeknd & 21 Savage)",
+      "tempo": "97.95",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Metro Boomin",
+      "genre": "rap",
+      "duration": "182667",
+      "key": "5",
+      "track_name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "tempo": "116.622",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Metro Boomin",
+      "genre": "rap",
+      "duration": "194787",
+      "key": "1",
+      "track_name": "Trance (with Travis Scott & Young Thug)",
+      "tempo": "119.497",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "OFFICIAL HIGE DANDISM",
+      "genre": "anime",
+      "duration": "254839",
+      "key": "5",
+      "track_name": "White Noise",
+      "tempo": "143.16",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "NewJeans",
+      "genre": "k-pop",
+      "duration": "179027",
+      "key": "4",
+      "track_name": "Hype Boy",
+      "tempo": "99.976",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "NewJeans",
+      "genre": "k-pop",
+      "duration": "212253",
+      "key": "9",
+      "track_name": "OMG",
+      "tempo": "126.956",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "NewJeans",
+      "genre": "k-pop",
+      "duration": "185507",
+      "key": "6",
+      "track_name": "Ditto",
+      "tempo": "133.854",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "David Guetta",
+      "genre": "big room",
+      "duration": "175238",
+      "key": "7",
+      "track_name": "I'm Good (Blue)",
+      "tempo": "128.04",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Tom Odell",
+      "genre": "chill pop",
+      "duration": "244360",
+      "key": "4",
+      "track_name": "Another Love",
+      "tempo": "122.769",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Chris Brown",
+      "genre": "dance pop",
+      "duration": "184613",
+      "key": "9",
+      "track_name": "Under The Influence",
+      "tempo": "116.992",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Miguel",
+      "genre": "dance pop",
+      "duration": "195373",
+      "key": "11",
+      "track_name": "Sure Thing",
+      "tempo": "81.001",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Bad Bunny",
+      "genre": "reggaeton",
+      "duration": "243717",
+      "key": "5",
+      "track_name": "Tití Me Preguntó",
+      "tempo": "106.672",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Bad Bunny",
+      "genre": "reggaeton",
+      "duration": "178567",
+      "key": "1",
+      "track_name": "Me Porto Bonito",
+      "tempo": "92.005",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Bad Bunny",
+      "genre": "reggaeton",
+      "duration": "245940",
+      "key": "5",
+      "track_name": "Moscow Mule",
+      "tempo": "99.968",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Baby",
+      "genre": "atl hip hop",
+      "duration": "205760",
+      "key": "4",
+      "track_name": "Sum 2 Prove",
+      "tempo": "124.038",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Baby",
+      "genre": "atl hip hop",
+      "duration": "200471",
+      "key": "4",
+      "track_name": "In A Minute",
+      "tempo": "84.216",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Baby",
+      "genre": "atl hip hop",
+      "duration": "177789",
+      "key": "5",
+      "track_name": "California Breeze",
+      "tempo": "161.734",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Baby",
+      "genre": "atl hip hop",
+      "duration": "162053",
+      "key": "2",
+      "track_name": "Freestyle",
+      "tempo": "119.996",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Tory Lanez",
+      "genre": "canadian hip hop",
+      "duration": "226467",
+      "key": "6",
+      "track_name": "The Color Violet",
+      "tempo": "105.02",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "170502",
+      "key": "8",
+      "track_name": "Major Distribution",
+      "tempo": "131.016",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "137151",
+      "key": "6",
+      "track_name": "Jumbotron Shit Poppin",
+      "tempo": "99.026",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "239360",
+      "key": "11",
+      "track_name": "Rich Flex",
+      "tempo": "153.15",
+      "time_signature": "3"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "242027",
+      "key": "4",
+      "track_name": "Pussy & Millions (feat. Travis Scott)",
+      "tempo": "122.03",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Zach Bryan",
+      "genre": "oklahoma country",
+      "duration": "228013",
+      "key": "4",
+      "track_name": "Something in the Orange",
+      "tempo": "175.212",
+      "time_signature": "3"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Bizarrap",
+      "genre": "argentine hip hop",
+      "duration": "218289",
+      "key": "2",
+      "track_name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "tempo": "122.104",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "J. Cole",
+      "genre": "conscious hip hop",
+      "duration": "292799",
+      "key": "10",
+      "track_name": "No Role Modelz",
+      "tempo": "100.028",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Morgan Wallen",
+      "genre": "contemporary country",
+      "duration": "178520",
+      "key": "11",
+      "track_name": "Wasted On You",
+      "tempo": "196.0",
+      "time_signature": "3"
+    },
+    {
+      "mode": "0",
+      "artist_name": "The Weeknd",
+      "genre": "canadian contemporary r&b",
+      "duration": "260253",
+      "key": "1",
+      "track_name": "Die For You",
+      "tempo": "133.249",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "153947",
+      "key": "8",
+      "track_name": "Kill Bill",
+      "tempo": "88.993",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "160920",
+      "key": "5",
+      "track_name": "Notice Me",
+      "tempo": "159.919",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Sam Smith",
+      "genre": "pop",
+      "duration": "156943",
+      "key": "2",
+      "track_name": "Unholy (feat. Kim Petras)",
+      "tempo": "131.121",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "218587",
+      "key": "6",
+      "track_name": "Ghost in the Machine (feat. Phoebe Bridgers)",
+      "tempo": "124.979",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "239613",
+      "key": "9",
+      "track_name": "Open Arms (feat. Travis Scott)",
+      "tempo": "77.559",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "201800",
+      "key": "5",
+      "track_name": "Snooze",
+      "tempo": "143.008",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Taylor Swift",
+      "genre": "pop",
+      "duration": "200690",
+      "key": "4",
+      "track_name": "Anti-Hero",
+      "tempo": "97.008",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "203733",
+      "key": "1",
+      "track_name": "Seek & Destroy",
+      "tempo": "152.069",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Taylor Swift",
+      "genre": "pop",
+      "duration": "202396",
+      "key": "10",
+      "track_name": "Lavender Haze",
+      "tempo": "97.038",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "244027",
+      "key": "5",
+      "track_name": "Gone Girl",
+      "tempo": "150.007",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "158840",
+      "key": "0",
+      "track_name": "Special",
+      "tempo": "76.134",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Miley Cyrus",
+      "genre": "pop",
+      "duration": "200455",
+      "key": "0",
+      "track_name": "Flowers",
+      "tempo": "117.999",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SZA",
+      "genre": "pop",
+      "duration": "180853",
+      "key": "7",
+      "track_name": "Nobody Gets Me",
+      "tempo": "99.796",
+      "time_signature": "3"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Ed Sheeran",
+      "genre": "pop",
+      "duration": "263400",
+      "key": "8",
+      "track_name": "Perfect",
+      "tempo": "95.05",
+      "time_signature": "3"
+    },
+    {
+      "mode": "1",
+      "artist_name": "GloRilla",
+      "genre": "rap",
+      "duration": "209811",
+      "key": "0",
+      "track_name": "Tomorrow 2 (with Cardi B)",
+      "tempo": "159.922",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "OFFICIAL HIGE DANDISM",
+      "genre": "anime",
+      "duration": "305509",
+      "key": "6",
+      "track_name": "Subtitle",
+      "tempo": "130.0",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "OFFICIAL HIGE DANDISM",
+      "genre": "anime",
+      "duration": "213438",
+      "key": "6",
+      "track_name": "Mixed Nuts",
+      "tempo": "150.094",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Kenshi Yonezu",
+      "genre": "anime",
+      "duration": "193495",
+      "key": "1",
+      "track_name": "KICK BACK",
+      "tempo": "101.921",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Tani Yuuki",
+      "genre": "j-pop",
+      "duration": "279100",
+      "key": "2",
+      "track_name": "W / X / Y",
+      "tempo": "103.832",
+      "time_signature": "3"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Fuerza Regida",
+      "genre": "corrido",
+      "duration": "271862",
+      "key": "7",
+      "track_name": "Bebe Dame",
+      "tempo": "157.437",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Brent Faiyaz",
+      "genre": "dmv rap",
+      "duration": "216063",
+      "key": "9",
+      "track_name": "ALL MINE",
+      "tempo": "141.967",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Moneybagg Yo",
+      "genre": "hip hop",
+      "duration": "159720",
+      "key": "1",
+      "track_name": "On Wat U On (with GloRilla)",
+      "tempo": "144.532",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Beyoncé",
+      "genre": "dance pop",
+      "duration": "225389",
+      "key": "7",
+      "track_name": "CUFF IT",
+      "tempo": "115.042",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "RAYE",
+      "genre": "dance pop",
+      "duration": "272373",
+      "key": "2",
+      "track_name": "Escapism.",
+      "tempo": "96.107",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Meghan Trainor",
+      "genre": "dance pop",
+      "duration": "134256",
+      "key": "10",
+      "track_name": "Made You Look",
+      "tempo": "144.981",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Glass Animals",
+      "genre": "gauze pop",
+      "duration": "238805",
+      "key": "11",
+      "track_name": "Heat Waves",
+      "tempo": "80.87",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "OneRepublic",
+      "genre": "piano rock",
+      "duration": "148486",
+      "key": "0",
+      "track_name": "I Ain't Worried",
+      "tempo": "139.994",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Quavo",
+      "genre": "atl hip hop",
+      "duration": "142657",
+      "key": "11",
+      "track_name": "HOTEL LOBBY (Unc & Phew)",
+      "tempo": "127.961",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Future",
+      "genre": "atl hip hop",
+      "duration": "172933",
+      "key": "8",
+      "track_name": "PUFFIN ON ZOOTIEZ",
+      "tempo": "124.992",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Future",
+      "genre": "atl hip hop",
+      "duration": "204600",
+      "key": "2",
+      "track_name": "Mask Off",
+      "tempo": "150.062",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Future",
+      "genre": "atl hip hop",
+      "duration": "189893",
+      "key": "1",
+      "track_name": "WAIT FOR U (feat. Drake & Tems)",
+      "tempo": "83.389",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Lil Uzi Vert",
+      "genre": "melodic rap",
+      "duration": "123891",
+      "key": "11",
+      "track_name": "Just Wanna Rock",
+      "tempo": "150.187",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Steve Lacy",
+      "genre": "afrofuturism",
+      "duration": "232067",
+      "key": "1",
+      "track_name": "Bad Habit",
+      "tempo": "168.946",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Rema",
+      "genre": "nigerian pop",
+      "duration": "239318",
+      "key": "11",
+      "track_name": "Calm Down (with Selena Gomez)",
+      "tempo": "106.999",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Rihanna",
+      "genre": "barbadian pop",
+      "duration": "196520",
+      "key": "9",
+      "track_name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "tempo": "177.115",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Arcángel",
+      "genre": "latin hip hop",
+      "duration": "196800",
+      "key": "9",
+      "track_name": "La Jumpa",
+      "tempo": "140.02",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "261544",
+      "key": "9",
+      "track_name": "On BS",
+      "tempo": "158.014",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "192956",
+      "key": "1",
+      "track_name": "Wants and Needs (feat. Lil Baby)",
+      "tempo": "136.006",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "214589",
+      "key": "7",
+      "track_name": "Spin Bout U",
+      "tempo": "129.963",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "218365",
+      "key": "0",
+      "track_name": "Jimmy Cooks (feat. 21 Savage)",
+      "tempo": "165.921",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "198973",
+      "key": "7",
+      "track_name": "God's Plan",
+      "tempo": "77.169",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "236795",
+      "key": "1",
+      "track_name": "Circo Loco",
+      "tempo": "103.976",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "238614",
+      "key": "7",
+      "track_name": "Nonstop",
+      "tempo": "154.983",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "JVKE",
+      "genre": "modern indie pop",
+      "duration": "209260",
+      "key": "4",
+      "track_name": "golden hour",
+      "tempo": "94.467",
+      "time_signature": "3"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Ado",
+      "genre": "japanese teen pop",
+      "duration": "228214",
+      "key": "7",
+      "track_name": "New Genesis - UTA from ONE PIECE FILM RED",
+      "tempo": "175.003",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Kid LAROI",
+      "genre": "australian hip hop",
+      "duration": "141806",
+      "key": "1",
+      "track_name": "STAY (with Justin Bieber)",
+      "tempo": "169.928",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Morgan Wallen",
+      "genre": "contemporary country",
+      "duration": "206865",
+      "key": "7",
+      "track_name": "One Thing At A Time",
+      "tempo": "141.982",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Bailey Zimmerman",
+      "genre": "contemporary country",
+      "duration": "207541",
+      "key": "1",
+      "track_name": "Rock and A Hard Place",
+      "tempo": "121.991",
+      "time_signature": "3"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Bailey Zimmerman",
+      "genre": "contemporary country",
+      "duration": "232059",
+      "key": "9",
+      "track_name": "Fall In Love",
+      "tempo": "135.962",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Morgan Wallen",
+      "genre": "contemporary country",
+      "duration": "163855",
+      "key": "6",
+      "track_name": "Last Night",
+      "tempo": "203.853",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Luke Combs",
+      "genre": "contemporary country",
+      "duration": "224427",
+      "key": "1",
+      "track_name": "The Kind of Love We Make",
+      "tempo": "102.025",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Morgan Wallen",
+      "genre": "contemporary country",
+      "duration": "157478",
+      "key": "9",
+      "track_name": "You Proof",
+      "tempo": "119.706",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Neighbourhood",
+      "genre": "modern alternative rock",
+      "duration": "240400",
+      "key": "10",
+      "track_name": "Sweater Weather",
+      "tempo": "124.053",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Weeknd",
+      "genre": "canadian contemporary r&b",
+      "duration": "200040",
+      "key": "1",
+      "track_name": "Blinding Lights",
+      "tempo": "171.005",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Weeknd",
+      "genre": "canadian contemporary r&b",
+      "duration": "230453",
+      "key": "7",
+      "track_name": "Starboy",
+      "tempo": "186.003",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "marlonhil",
+      "genre": null,
+      "duration": "149538",
+      "key": "1",
+      "track_name": "Fuma Weed",
+      "tempo": "130.031",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Ice Spice",
+      "genre": null,
+      "duration": "129362",
+      "key": "0",
+      "track_name": "In Ha Mood",
+      "tempo": "141.059",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Post Malone",
+      "genre": "dfw rap",
+      "duration": "192841",
+      "key": "5",
+      "track_name": "I Like You (A Happier Song) (with Doja Cat)",
+      "tempo": "100.964",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "yuji",
+      "genre": null,
+      "duration": "249382",
+      "key": "11",
+      "track_name": "Old Love",
+      "tempo": "141.95",
+      "time_signature": "3"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Coi Leray",
+      "genre": "new jersey underground rap",
+      "duration": "117027",
+      "key": "1",
+      "track_name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "tempo": "136.018",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Kid LAROI",
+      "genre": "australian hip hop",
+      "duration": "164782",
+      "key": "7",
+      "track_name": "Thousand Miles",
+      "tempo": "80.565",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Finesse2tymes",
+      "genre": "memphis hip hop",
+      "duration": "165487",
+      "key": "10",
+      "track_name": "Back End",
+      "tempo": "130.001",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Durk",
+      "genre": "chicago drill",
+      "duration": "205893",
+      "key": "11",
+      "track_name": "Hanging With Wolves",
+      "tempo": "151.978",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "The Weeknd",
+      "genre": "canadian contemporary r&b",
+      "duration": "199111",
+      "key": "9",
+      "track_name": "Is There Someone Else?",
+      "tempo": "134.951",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Baby",
+      "genre": "atl hip hop",
+      "duration": "166889",
+      "key": "11",
+      "track_name": "Stand On It",
+      "tempo": "86.468",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "The Weeknd",
+      "genre": "canadian contemporary r&b",
+      "duration": "214194",
+      "key": "0",
+      "track_name": "Out of Time",
+      "tempo": "93.057",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Hitkidd",
+      "genre": "memphis hip hop",
+      "duration": "178824",
+      "key": "9",
+      "track_name": "Shabooya",
+      "tempo": "145.016",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Backing Business",
+      "genre": null,
+      "duration": "342901",
+      "key": "4",
+      "track_name": "Super General (Originally Performed by Kevin Gates) [Instrumental Version]",
+      "tempo": "145.942",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Gucci Mane",
+      "genre": "atl hip hop",
+      "duration": "214594",
+      "key": "1",
+      "track_name": "King Snipe",
+      "tempo": "125.061",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Peezy",
+      "genre": "detroit trap",
+      "duration": "159973",
+      "key": "6",
+      "track_name": "2 Million Up",
+      "tempo": "95.753",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Chris Brown",
+      "genre": "dance pop",
+      "duration": "146840",
+      "key": "4",
+      "track_name": "Call Me Every Day (feat. Wizkid)",
+      "tempo": "171.862",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "NLE Choppa",
+      "genre": "memphis hip hop",
+      "duration": "213206",
+      "key": "11",
+      "track_name": "Do It Again (feat. 2Rare)",
+      "tempo": "160.054",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Quavo Huncho",
+      "genre": null,
+      "duration": "250056",
+      "key": "2",
+      "track_name": "Without You",
+      "tempo": "146.291",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Ice Spice",
+      "genre": null,
+      "duration": "104819",
+      "key": "11",
+      "track_name": "Munch (Feelin’ U)",
+      "tempo": "166.084",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Sabrina Carpenter",
+      "genre": "dance pop",
+      "duration": "163648",
+      "key": "8",
+      "track_name": "Nonsense",
+      "tempo": "138.992",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "SleazyWorld Go",
+      "genre": "trap",
+      "duration": "161355",
+      "key": "2",
+      "track_name": "Sleazy Flow (with Lil Baby) - Remix",
+      "tempo": "77.47",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Rubi Rose",
+      "genre": "viral rap",
+      "duration": "127822",
+      "key": "10",
+      "track_name": "I Like",
+      "tempo": "99.986",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Stacey Ryan",
+      "genre": null,
+      "duration": "205428",
+      "key": "7",
+      "track_name": "Fall In Love Alone",
+      "tempo": "171.883",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Moneybagg Yo",
+      "genre": "hip hop",
+      "duration": "187826",
+      "key": "2",
+      "track_name": "Quickie",
+      "tempo": "137.921",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Jack Harlow",
+      "genre": "deep underground hip hop",
+      "duration": "173948",
+      "key": "8",
+      "track_name": "First Class",
+      "tempo": "106.998",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Eminem",
+      "genre": "detroit hip hop",
+      "duration": "215120",
+      "key": "9",
+      "track_name": "From The D 2 The LBC (with Snoop Dogg)",
+      "tempo": "82.037",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Freddie Dredd",
+      "genre": "aesthetic rap",
+      "duration": "169947",
+      "key": "11",
+      "track_name": "Limbo",
+      "tempo": "74.987",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "NBA YoungBoy",
+      "genre": null,
+      "duration": "128581",
+      "key": "4",
+      "track_name": "No Sleep",
+      "tempo": "136.035",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "YoungBoy Never Broke Again",
+      "genre": "baton rouge rap",
+      "duration": "173419",
+      "key": "10",
+      "track_name": "Vette Motors",
+      "tempo": "155.103",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Post Malone",
+      "genre": "dfw rap",
+      "duration": "185857",
+      "key": "0",
+      "track_name": "Cooped Up (with Roddy Ricch)",
+      "tempo": "93.923",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Mabu",
+      "genre": null,
+      "duration": "138309",
+      "key": "9",
+      "track_name": "THROW",
+      "tempo": "73.376",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Yeat",
+      "genre": "pluggnb",
+      "duration": "150242",
+      "key": "4",
+      "track_name": "Out thë way",
+      "tempo": "128.07",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Durk",
+      "genre": "chicago drill",
+      "duration": "153600",
+      "key": "5",
+      "track_name": "Mad Max",
+      "tempo": "149.988",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Ren",
+      "genre": "brighton indie",
+      "duration": "515000",
+      "key": "7",
+      "track_name": "Hi Ren",
+      "tempo": "111.108",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Finesse2tymes",
+      "genre": "memphis hip hop",
+      "duration": "128194",
+      "key": "2",
+      "track_name": "Overdose",
+      "tempo": "137.013",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Ice Spice",
+      "genre": null,
+      "duration": "106667",
+      "key": "8",
+      "track_name": "Bikini Bottom",
+      "tempo": "161.962",
+      "time_signature": "3"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Toosii",
+      "genre": "north carolina hip hop",
+      "duration": "230017",
+      "key": "2",
+      "track_name": "Love is...",
+      "tempo": "81.777",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Quavo",
+      "genre": "atl hip hop",
+      "duration": "177395",
+      "key": "11",
+      "track_name": "Messy",
+      "tempo": "152.919",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Hitkidd",
+      "genre": "memphis hip hop",
+      "duration": "137580",
+      "key": "1",
+      "track_name": "F.N.F. (Let's Go)",
+      "tempo": "157.144",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Zay Osama",
+      "genre": "chicago rap",
+      "duration": "194560",
+      "key": "9",
+      "track_name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
+      "tempo": "157.948",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Juice WRLD",
+      "genre": "chicago rap",
+      "duration": "192000",
+      "key": "5",
+      "track_name": "In My Head",
+      "tempo": "160.011",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Ella Mai",
+      "genre": "dance pop",
+      "duration": "197517",
+      "key": "6",
+      "track_name": "DFMU",
+      "tempo": "136.759",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Lil Durk",
+      "genre": "chicago drill",
+      "duration": "186538",
+      "key": "1",
+      "track_name": "AHHH HA",
+      "tempo": "156.005",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Kay Flock",
+      "genre": "bronx drill",
+      "duration": "118249",
+      "key": "1",
+      "track_name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+      "tempo": "140.051",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Rod Wave",
+      "genre": "florida rap",
+      "duration": "191159",
+      "key": "3",
+      "track_name": "Alone",
+      "tempo": "82.07",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Nicki Minaj",
+      "genre": "dance pop",
+      "duration": "170977",
+      "key": "2",
+      "track_name": "Super Freaky Girl",
+      "tempo": "133.01",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Fivio Foreign",
+      "genre": "brooklyn drill",
+      "duration": "201399",
+      "key": "1",
+      "track_name": "What’s My Name (with Queen Naija & Coi Leray)",
+      "tempo": "143.032",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Quavo",
+      "genre": "atl hip hop",
+      "duration": "199111",
+      "key": "5",
+      "track_name": "Nothing Changed",
+      "tempo": "134.902",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Kodak Black",
+      "genre": "florida drill",
+      "duration": "166494",
+      "key": "0",
+      "track_name": "300 Blackout",
+      "tempo": "167.903",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Tyga",
+      "genre": "dance pop",
+      "duration": "215281",
+      "key": "2",
+      "track_name": "Freaky Deaky",
+      "tempo": "104.019",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Kendrick Lamar",
+      "genre": "conscious hip hop",
+      "duration": "195950",
+      "key": "1",
+      "track_name": "N95",
+      "tempo": "139.956",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Lil Baby",
+      "genre": "atl hip hop",
+      "duration": "213976",
+      "key": "2",
+      "track_name": "Right On",
+      "tempo": "165.991",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "DJ Khaled",
+      "genre": "hip hop",
+      "duration": "501648",
+      "key": "8",
+      "track_name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
+      "tempo": "82.212",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Back to Back DD osama",
+      "genre": null,
+      "duration": "128865",
+      "key": "5",
+      "track_name": "Back to Back DD osama",
+      "tempo": "158.077",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Denise Julia",
+      "genre": "chill r&b",
+      "duration": "181224",
+      "key": "6",
+      "track_name": "NVMD",
+      "tempo": "97.977",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Kendrick Lamar",
+      "genre": "conscious hip hop",
+      "duration": "202285",
+      "key": "10",
+      "track_name": "Rich Spirit",
+      "tempo": "95.977",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Armani White",
+      "genre": "indie hip hop",
+      "duration": "99283",
+      "key": "1",
+      "track_name": "BILLIE EILISH.",
+      "tempo": "100.024",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Mariah the Scientist",
+      "genre": "alternative r&b",
+      "duration": "202520",
+      "key": "6",
+      "track_name": "Spread Thin",
+      "tempo": "110.113",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Nardo Wick",
+      "genre": "florida drill",
+      "duration": "225664",
+      "key": "1",
+      "track_name": "Me or Sum (feat. Future & Lil Baby)",
+      "tempo": "160.517",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "French Montana",
+      "genre": "gangster rap",
+      "duration": "216415",
+      "key": "1",
+      "track_name": "Mopstick (feat. Kodak Black)",
+      "tempo": "163.979",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "YG",
+      "genre": "cali rap",
+      "duration": "213289",
+      "key": "10",
+      "track_name": "Toxic",
+      "tempo": "99.998",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "$uicideboy$",
+      "genre": "dark trap",
+      "duration": "175476",
+      "key": "5",
+      "track_name": "1000 Blunts",
+      "tempo": "132.99",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Real Boston Richey",
+      "genre": "florida drill",
+      "duration": "157397",
+      "key": "11",
+      "track_name": "Bullseye 2 (with Future)",
+      "tempo": "106.584",
+      "time_signature": "5"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Young Dolph",
+      "genre": "gangster rap",
+      "duration": "180760",
+      "key": "1",
+      "track_name": "Get Away",
+      "tempo": "140.078",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Lil Durk",
+      "genre": "chicago drill",
+      "duration": "181393",
+      "key": "6",
+      "track_name": "What Happened To Virgil (feat. Gunna)",
+      "tempo": "140.037",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Future",
+      "genre": "atl hip hop",
+      "duration": "271840",
+      "key": "2",
+      "track_name": "I'M DAT N****",
+      "tempo": "144.026",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Hotboii",
+      "genre": "florida drill",
+      "duration": "177275",
+      "key": "0",
+      "track_name": "WTF",
+      "tempo": "158.144",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Kendrick Lamar",
+      "genre": "conscious hip hop",
+      "duration": "283642",
+      "key": "4",
+      "track_name": "Count Me Out",
+      "tempo": "133.999",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Stormzy",
+      "genre": "grime",
+      "duration": "209291",
+      "key": "2",
+      "track_name": "Hide & Seek",
+      "tempo": "104.908",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "GloRilla",
+      "genre": "rap",
+      "duration": "216000",
+      "key": "2",
+      "track_name": "Blessed",
+      "tempo": "79.95",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Yeat",
+      "genre": "pluggnb",
+      "duration": "154787",
+      "key": "1",
+      "track_name": "On tha linë",
+      "tempo": "149.106",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "YoungBoy Never Broke Again",
+      "genre": "baton rouge rap",
+      "duration": "128000",
+      "key": "2",
+      "track_name": "Black",
+      "tempo": "75.04",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Rod Wave",
+      "genre": "florida rap",
+      "duration": "192022",
+      "key": "11",
+      "track_name": "Cold December",
+      "tempo": "169.913",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Jack Harlow",
+      "genre": "deep underground hip hop",
+      "duration": "309327",
+      "key": "11",
+      "track_name": "Churchill Downs (feat. Drake)",
+      "tempo": "96.448",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Notti Osama",
+      "genre": "new york drill",
+      "duration": "124762",
+      "key": "5",
+      "track_name": "Dead Opps",
+      "tempo": "145.976",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Drake",
+      "genre": "canadian hip hop",
+      "duration": "243228",
+      "key": "6",
+      "track_name": "Sticky",
+      "tempo": "137.027",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Rod Wave",
+      "genre": "florida rap",
+      "duration": "174750",
+      "key": "10",
+      "track_name": "Sweet Little Lies",
+      "tempo": "159.978",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Yung Gravy",
+      "genre": "minnesota hip hop",
+      "duration": "146471",
+      "key": "1",
+      "track_name": "Betty (Get Money)",
+      "tempo": "102.004",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "AC/DC",
+      "genre": "australian rock",
+      "duration": "255493",
+      "key": "9",
+      "track_name": "Back In Black",
+      "tempo": "188.386",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "AC/DC",
+      "genre": "australian rock",
+      "duration": "210173",
+      "key": "7",
+      "track_name": "You Shook Me All Night Long",
+      "tempo": "127.361",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "AC/DC",
+      "genre": "australian rock",
+      "duration": "208400",
+      "key": "6",
+      "track_name": "Highway to Hell",
+      "tempo": "115.728",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Aerosmith",
+      "genre": "album rock",
+      "duration": "266960",
+      "key": "1",
+      "track_name": "Dream On",
+      "tempo": "160.9",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Alice Cooper",
+      "genre": "album rock",
+      "duration": "270080",
+      "key": "2",
+      "track_name": "Poison",
+      "tempo": "118.698",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Asia",
+      "genre": "album rock",
+      "duration": "284893",
+      "key": "9",
+      "track_name": "Only Time Will Tell",
+      "tempo": "125.544",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Bad Company",
+      "genre": "album rock",
+      "duration": "261000",
+      "key": "7",
+      "track_name": "If You Needed Somebody",
+      "tempo": "168.324",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Billy Idol",
+      "genre": "album rock",
+      "duration": "288533",
+      "key": "4",
+      "track_name": "Rebel Yell",
+      "tempo": "166.312",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Black Sabbath",
+      "genre": "album rock",
+      "duration": "168440",
+      "key": "4",
+      "track_name": "Paranoid",
+      "tempo": "162.734",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Black Sabbath",
+      "genre": "album rock",
+      "duration": "354774",
+      "key": "9",
+      "track_name": "Iron Man",
+      "tempo": "157.378",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Blue Öyster Cult",
+      "genre": "album rock",
+      "duration": "308120",
+      "key": "9",
+      "track_name": "(Don't Fear) The Reaper",
+      "tempo": "141.466",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Bon Jovi",
+      "genre": "glam metal",
+      "duration": "222707",
+      "key": "0",
+      "track_name": "You Give Love A Bad Name",
+      "tempo": "122.803",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Bon Jovi",
+      "genre": "glam metal",
+      "duration": "249293",
+      "key": "0",
+      "track_name": "Livin' On A Prayer",
+      "tempo": "122.511",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Boston",
+      "genre": "album rock",
+      "duration": "285133",
+      "key": "7",
+      "track_name": "More Than a Feeling",
+      "tempo": "108.789",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Bryan Adams",
+      "genre": "album rock",
+      "duration": "216053",
+      "key": "2",
+      "track_name": "Summer Of '69",
+      "tempo": "139.131",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Clash",
+      "genre": "classic rock",
+      "duration": "188987",
+      "key": "2",
+      "track_name": "Should I Stay or Should I Go - Remastered",
+      "tempo": "113.375",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Creedence Clearwater Revival",
+      "genre": "album rock",
+      "duration": "160133",
+      "key": "0",
+      "track_name": "Have You Ever Seen The Rain",
+      "tempo": "116.109",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Creedence Clearwater Revival",
+      "genre": "album rock",
+      "duration": "140773",
+      "key": "0",
+      "track_name": "Fortunate Son",
+      "tempo": "132.77",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Deep Purple",
+      "genre": "album rock",
+      "duration": "328427",
+      "key": "2",
+      "track_name": "Perfect Strangers",
+      "tempo": "97.578",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Deep Purple",
+      "genre": "album rock",
+      "duration": "340742",
+      "key": "0",
+      "track_name": "Smoke On The Water - Remastered 2012",
+      "tempo": "114.169",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Deep Purple",
+      "genre": "album rock",
+      "duration": "366136",
+      "key": "9",
+      "track_name": "Highway Star - Remastered 2012",
+      "tempo": "173.674",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Deep Purple",
+      "genre": "album rock",
+      "duration": "209400",
+      "key": "9",
+      "track_name": "Black Night - 1995 Remaster",
+      "tempo": "134.719",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Def Leppard",
+      "genre": "album rock",
+      "duration": "247829",
+      "key": "11",
+      "track_name": "Rock Of Ages",
+      "tempo": "105.893",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Derek & The Dominos",
+      "genre": "album rock",
+      "duration": "423840",
+      "key": "1",
+      "track_name": "Layla",
+      "tempo": "115.669",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Dio",
+      "genre": "album rock",
+      "duration": "252693",
+      "key": "9",
+      "track_name": "Rainbow In The Dark",
+      "tempo": "117.582",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Dire Straits",
+      "genre": "album rock",
+      "duration": "249960",
+      "key": "4",
+      "track_name": "Walk Of Life",
+      "tempo": "172.427",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Dire Straits",
+      "genre": "album rock",
+      "duration": "348624",
+      "key": "5",
+      "track_name": "Sultans Of Swing",
+      "tempo": "148.174",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "The Doors",
+      "genre": "acid rock",
+      "duration": "429760",
+      "key": "3",
+      "track_name": "Light My Fire",
+      "tempo": "124.618",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Doors",
+      "genre": "acid rock",
+      "duration": "243827",
+      "key": "9",
+      "track_name": "Roadhouse Blues",
+      "tempo": "121.119",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Eagles",
+      "genre": "album rock",
+      "duration": "391376",
+      "key": "2",
+      "track_name": "Hotel California - 2013 Remaster",
+      "tempo": "147.125",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Elton John",
+      "genre": "glam rock",
+      "duration": "281613",
+      "key": "10",
+      "track_name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "tempo": "136.571",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Eric Clapton",
+      "genre": "blues rock",
+      "duration": "221640",
+      "key": "9",
+      "track_name": "Cocaine",
+      "tempo": "105.267",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Europe",
+      "genre": "album rock",
+      "duration": "310333",
+      "key": "6",
+      "track_name": "The Final Countdown",
+      "tempo": "117.662",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "George Thorogood & The Destroyers",
+      "genre": "album rock",
+      "duration": "292173",
+      "key": "0",
+      "track_name": "Bad To The Bone",
+      "tempo": "149.231",
+      "time_signature": "1"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Guns N' Roses",
+      "genre": "glam metal",
+      "duration": "405640",
+      "key": "11",
+      "track_name": "Paradise City",
+      "tempo": "100.271",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Guns N' Roses",
+      "genre": "glam metal",
+      "duration": "354520",
+      "key": "6",
+      "track_name": "Sweet Child O' Mine",
+      "tempo": "125.116",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Guns N' Roses",
+      "genre": "glam metal",
+      "duration": "536067",
+      "key": "11",
+      "track_name": "November Rain",
+      "tempo": "79.759",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Huey Lewis & The News",
+      "genre": "album rock",
+      "duration": "234333",
+      "key": "5",
+      "track_name": "The Power Of Love",
+      "tempo": "118.773",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Iron Maiden",
+      "genre": "hard rock",
+      "duration": "233507",
+      "key": "0",
+      "track_name": "Run to the Hills - 2015 Remaster",
+      "tempo": "173.671",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Iron Maiden",
+      "genre": "hard rock",
+      "duration": "252733",
+      "key": "4",
+      "track_name": "The Trooper - 2015 Remaster",
+      "tempo": "159.756",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Iron Maiden",
+      "genre": "hard rock",
+      "duration": "290587",
+      "key": "0",
+      "track_name": "The Number of the Beast - 2015 Remaster",
+      "tempo": "100.409",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Jimi Hendrix",
+      "genre": "acid rock",
+      "duration": "210160",
+      "key": "9",
+      "track_name": "Hey Joe",
+      "tempo": "169.492",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Joan Jett & the Blackhearts",
+      "genre": "glam punk",
+      "duration": "175173",
+      "key": "4",
+      "track_name": "I Love Rock 'N Roll",
+      "tempo": "94.379",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Journey",
+      "genre": "album rock",
+      "duration": "250987",
+      "key": "4",
+      "track_name": "Don't Stop Believin'",
+      "tempo": "118.852",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Kansas",
+      "genre": "album rock",
+      "duration": "323000",
+      "key": "7",
+      "track_name": "Carry on Wayward Son",
+      "tempo": "126.755",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "KISS",
+      "genre": "album rock",
+      "duration": "168840",
+      "key": "1",
+      "track_name": "Rock And Roll All Nite",
+      "tempo": "144.774",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Led Zeppelin",
+      "genre": "album rock",
+      "duration": "220561",
+      "key": "9",
+      "track_name": "Rock and Roll - Remaster",
+      "tempo": "169.613",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Led Zeppelin",
+      "genre": "album rock",
+      "duration": "482830",
+      "key": "9",
+      "track_name": "Stairway to Heaven - Remaster",
+      "tempo": "82.433",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Lynyrd Skynyrd",
+      "genre": "album rock",
+      "duration": "357933",
+      "key": "1",
+      "track_name": "Simple Man",
+      "tempo": "120.55",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Lynyrd Skynyrd",
+      "genre": "album rock",
+      "duration": "558933",
+      "key": "7",
+      "track_name": "Free Bird",
+      "tempo": "117.418",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Lynyrd Skynyrd",
+      "genre": "album rock",
+      "duration": "283800",
+      "key": "7",
+      "track_name": "Sweet Home Alabama",
+      "tempo": "97.798",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Motörhead",
+      "genre": "album rock",
+      "duration": "166360",
+      "key": "4",
+      "track_name": "Ace of Spades",
+      "tempo": "140.452",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Ozzy Osbourne",
+      "genre": "album rock",
+      "duration": "296200",
+      "key": "9",
+      "track_name": "Crazy Train",
+      "tempo": "137.571",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Pink Floyd",
+      "genre": "album rock",
+      "duration": "238747",
+      "key": "0",
+      "track_name": "Another Brick in the Wall, Pt. 2",
+      "tempo": "104.114",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Pink Floyd",
+      "genre": "album rock",
+      "duration": "382297",
+      "key": "11",
+      "track_name": "Comfortably Numb",
+      "tempo": "127.163",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Pink Floyd",
+      "genre": "album rock",
+      "duration": "334744",
+      "key": "7",
+      "track_name": "Wish You Were Here",
+      "tempo": "122.861",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Queen",
+      "genre": "classic rock",
+      "duration": "271612",
+      "key": "11",
+      "track_name": "The Show Must Go On",
+      "tempo": "84.156",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Queen",
+      "genre": "classic rock",
+      "duration": "122067",
+      "key": "2",
+      "track_name": "We Will Rock You - Remastered 2011",
+      "tempo": "81.308",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Queen",
+      "genre": "classic rock",
+      "duration": "179200",
+      "key": "10",
+      "track_name": "We Are The Champions - Remastered 2011",
+      "tempo": "64.177",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Queen",
+      "genre": "classic rock",
+      "duration": "354320",
+      "key": "0",
+      "track_name": "Bohemian Rhapsody - Remastered 2011",
+      "tempo": "71.105",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Queen",
+      "genre": "classic rock",
+      "duration": "348227",
+      "key": "5",
+      "track_name": "Radio Ga Ga - Remastered 2011",
+      "tempo": "112.344",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "The Rolling Stones",
+      "genre": "british invasion",
+      "duration": "270773",
+      "key": "1",
+      "track_name": "Gimme Shelter",
+      "tempo": "118.628",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Rolling Stones",
+      "genre": "british invasion",
+      "duration": "222813",
+      "key": "2",
+      "track_name": "(I Can't Get No) Satisfaction - Mono Version",
+      "tempo": "136.302",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Rush",
+      "genre": "album rock",
+      "duration": "276880",
+      "key": "9",
+      "track_name": "Tom Sawyer",
+      "tempo": "87.559",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Rush",
+      "genre": "album rock",
+      "duration": "296467",
+      "key": "4",
+      "track_name": "The Spirit Of Radio",
+      "tempo": "135.811",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Scorpions",
+      "genre": "album rock",
+      "duration": "403453",
+      "key": "6",
+      "track_name": "Still Loving You",
+      "tempo": "103.929",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Scorpions",
+      "genre": "album rock",
+      "duration": "312360",
+      "key": "0",
+      "track_name": "Wind Of Change",
+      "tempo": "151.505",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Scorpions",
+      "genre": "album rock",
+      "duration": "273333",
+      "key": "1",
+      "track_name": "Send Me An Angel",
+      "tempo": "80.87",
+      "time_signature": "3"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Skid Row",
+      "genre": "album rock",
+      "duration": "229960",
+      "key": "1",
+      "track_name": "18 and Life",
+      "tempo": "90.435",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Skid Row",
+      "genre": "album rock",
+      "duration": "313693",
+      "key": "0",
+      "track_name": "I Remember You",
+      "tempo": "176.302",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Steppenwolf",
+      "genre": "acid rock",
+      "duration": "210373",
+      "key": "2",
+      "track_name": "Born To Be Wild",
+      "tempo": "145.928",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "Survivor",
+      "genre": "album rock",
+      "duration": "243773",
+      "key": "0",
+      "track_name": "Eye of the Tiger",
+      "tempo": "108.965",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "TOTO",
+      "genre": "album rock",
+      "duration": "235547",
+      "key": "6",
+      "track_name": "Hold the Line",
+      "tempo": "96.556",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Van Halen",
+      "genre": "album rock",
+      "duration": "241600",
+      "key": "0",
+      "track_name": "Jump - 2015 Remaster",
+      "tempo": "129.981",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Van Halen",
+      "genre": "album rock",
+      "duration": "210227",
+      "key": "8",
+      "track_name": "Panama - 2015 Remaster",
+      "tempo": "141.167",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Van Halen",
+      "genre": "album rock",
+      "duration": "294000",
+      "key": "0",
+      "track_name": "Dreams",
+      "tempo": "141.304",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Whitesnake",
+      "genre": "album rock",
+      "duration": "284496",
+      "key": "0",
+      "track_name": "Is This Love - 2018 Remaster",
+      "tempo": "179.904",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "The Who",
+      "genre": "album rock",
+      "duration": "300400",
+      "key": "5",
+      "track_name": "Baba O'Riley",
+      "tempo": "117.292",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Winger",
+      "genre": "album rock",
+      "duration": "252867",
+      "key": "5",
+      "track_name": "Miles Away",
+      "tempo": "182.21",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "ZZ Top",
+      "genre": "album rock",
+      "duration": "230480",
+      "key": "4",
+      "track_name": "La Grange - 2005 Remaster",
+      "tempo": "80.544",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "The Cure",
+      "genre": "new wave",
+      "duration": "155973",
+      "key": "11",
+      "track_name": "Boys Don't Cry",
+      "tempo": "168.766",
+      "time_signature": "4"
+    },
+    {
+      "mode": "0",
+      "artist_name": "The Mamas & The Papas",
+      "genre": "bubblegum pop",
+      "duration": "162373",
+      "key": "1",
+      "track_name": "California Dreamin' - Single Version",
+      "tempo": "112.367",
+      "time_signature": "4"
+    },
+    {
+      "mode": "1",
+      "artist_name": "Nazareth",
+      "genre": "album rock",
+      "duration": "231733",
+      "key": "0",
+      "track_name": "Love Hurts - Live",
+      "tempo": "79.618",
+      "time_signature": "4"
+    }
+  ]
+}

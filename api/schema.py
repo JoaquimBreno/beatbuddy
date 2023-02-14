@@ -6,9 +6,14 @@ T = TypeVar('T')
 
 ############ Song ############
 class SongsSchema(BaseModel):
-    id = int
-    title = str
-    artist = str
+    track_name = int
+    artist_name = str
+    genre = str
+    key = str
+    mode = str
+    tempo = str
+    duration = str
+    time_signature = str
 
     class Config:
         orm_mode = True

@@ -3,9 +3,8 @@ from fastapi import Depends
 from config import SessionLocal
 from sqlalchemy.orm import Session
 from schema import Response
-from modules.shazam import shazam, finder
-from modules.suggester import suggester
-from modules import uploader
+from modules.shazam import shazam, finder, metagen, model
+# from modules.suggester import suggester
 import crud
 
 
@@ -29,13 +28,25 @@ async def get_songs(skip: int = 0, limit: int = 100, db: Session = Depends(get_d
     return Response(status="Ok", code="200", message="Success fetch all data", result=_song)
 
 @router.get("/finder")
-async def find_song(url: str, db: Session = Depends(get_db)):
+async def find_song(url: str, skip: int = 0, limit: int = 100,db: Session = Depends(get_db)):
+    # _song = crud.get_songs_no_limit(db,skip,limit)
+    # print(_song)
     song, artist = finder.download_and_find(url)
+    
     if(song != None and artist != None):
         shazam_metadata = {
             "title": song,
             "artist": artist
         }
-        return Response(status="Ok", code="200", message="Success fetch all data", result=shazam_metadata)
+        query = song+" "+artist
+        query = query.replace(" ", "%20")
+        print(query)
+        spot_metadata = metagen.search_song(query)
+        results = []
+        results = model.main(spot_metadata, "test.json")
+        for key, value in spot_metadata.items():
+            shazam_metadata[key] = value
+        print(results)
+        return Response(status="Ok", code="200", message="Success fetch all data", result=results)
        
     return Response(status="Ok", code="200", message="Success fetch all data", result={})

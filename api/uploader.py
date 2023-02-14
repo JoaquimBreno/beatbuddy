@@ -48,4 +48,28 @@ def dropbox_generator(file_from):
         print(err)
         return "erro"
     
-#print(dropbox_generator("girlfriend.mp3"))
+print("Insira arquivo: \n")
+file = input()
+url = dropbox_generator(file)
+
+from modules.shazam import finder, metagen, model
+
+
+    # _song = crud.get_songs_no_limit(db,skip,limit)
+    # print(_song)
+song, artist = finder.download_and_find(url)
+    
+if(song != None and artist != None):
+    shazam_metadata = {
+        "title": song,
+        "artist": artist
+    }
+    query = song+" "+artist
+    query = query.replace(" ", "%20")
+    spot_metadata = metagen.search_song(query)
+    results = []
+    results = model.main(spot_metadata, "test.json")
+    for key, value in spot_metadata.items():
+        shazam_metadata[key] = value
+
+print(results)
