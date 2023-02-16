@@ -14,9 +14,9 @@ def load_json(file):
 def next_song_pratice (song, banco):
     #  banco e new song data em json
     # import data from database  
-    data = load_json(banco)
+    data = banco
   
-    df = pd.DataFrame(data["result"]).fillna("")
+    df = pd.DataFrame(data).fillna("")
     df['id'] = df['track_name'] + " ( " + df['artist_name'] + " )"
     df = df.set_index('id').fillna("").drop(columns=["track_name", "artist_name"], axis= 1)
     for i , r in df.iterrows():
@@ -41,21 +41,21 @@ def next_song_pratice (song, banco):
     song = [song]
     new_song = pd.DataFrame(song).fillna("")
     
-    if "pop" in new_song.loc[0,"genre"]: 
+    if "pop" in str(new_song.loc[0,"genre"]): 
         new_song.loc[0,"genre"] = "pop"
-    elif  any(substring in new_song.loc[0,"genre"] for substring in ["hip hop", "rap", "r&b", "trap"]): 
+    elif  any(substring in str(new_song.loc[0,"genre"]) for substring in ["hip hop", "rap", "r&b", "trap"]): 
         new_song.loc[0,"genre"] = "hip hop"
-    elif "country" in new_song.loc[0,"genre"]: 
+    elif "country" in str(new_song.loc[0,"genre"]): 
         new_song.loc[0,"genre"] = "country"
-    elif any(substring in new_song.loc[0,"genre"] for substring in ["rock", "metal"]):
+    elif any(substring in str(new_song.loc[0,"genre"]) for substring in ["rock", "metal"]):
         new_song.loc[0,"genre"] = "rock"
     else: 
         new_song.loc[0,"genre"] = "other"
-    
+        
     # filter and normalize database
-    
+
     song_genre = new_song.loc[0,"genre"]
-    
+  
     col_to_use = [ "tempo", "key", "mode", "duration", "time_signature"]
     base = df[df["genre"] == song_genre].loc[:, col_to_use ]
         

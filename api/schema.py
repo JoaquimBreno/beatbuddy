@@ -26,3 +26,4 @@ class Response(GenericModel, Generic[T]):
     status: str
     message: str
     result: Optional[T]
+    original: Optional[T]
